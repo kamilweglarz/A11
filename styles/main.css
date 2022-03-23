@@ -73,5 +73,6 @@ a:focus, a:hover {
 footer p {
 	text-align: center;
     border-bottom: 3px solid #931420;
-
+    background-color: #931420;
+    color: white;
 }
