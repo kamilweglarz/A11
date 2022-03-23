@@ -9,6 +9,8 @@ body {
     margin-right: auto;
     border-width: 3px;
     border-color: #931420;
+    background-color: #fffded;
+
 }
 /* the styles for the header */
 header img {
