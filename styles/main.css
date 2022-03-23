@@ -51,6 +51,8 @@ main h1 {
     font-size: 150%;
     padding-top: .3em;
     padding-bottom: .25ex;
+    border-bottom: 3px solid #931420;
+    border-top: 3px solid #931420;
 }
 main h2 {
     color: #800000;
@@ -70,4 +72,6 @@ a:focus, a:hover {
 /* the styles for the footer */
 footer p {
 	text-align: center;
+    border-bottom: 3px solid #931420;
+
 }
