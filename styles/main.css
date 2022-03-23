@@ -35,6 +35,7 @@ header h3 {
     padding: 0 30px 0 30px;
 
 }
+
 .shadow {
     text-shadow: 2px 2px 2px #800000;
 }
@@ -64,7 +65,24 @@ main h3 {
     padding-bottom: .25em;
 
 }
+img{
+    padding-bottom: 1em;
+}
 
+p{
+    padding-bottom:.5em ;
+}
+blackquote{
+    padding-right: 2em ;
+    padding-left: 2em ;
+}
+ul{
+    padding-bottom:.25em ;
+    padding-left: 1.25em ;
+}
+li{
+    padding-bottom: .35em;
+}
 a:focus, a:hover {
     font-style: italic;
 }
@@ -74,4 +92,6 @@ footer p {
     border-bottom: 3px solid #931420;
     background-color: #931420;
     color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
